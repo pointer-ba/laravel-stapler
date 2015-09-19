@@ -9,15 +9,8 @@
             "email": "tandrewbennett@hotmail.com"
         }
     ],
-    "repositories": [
-      {
-        "type": "vcs",
-        "url": "https://github.com/pointer-ba/stapler.git"
-      }
-    ],
     "require": {
         "php": ">=5.4.0",
-        "codesleeve/stapler": "dev-custom",
         "laravel/framework": "4.*|5.*"
     },
     "autoload": {
